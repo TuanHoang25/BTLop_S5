@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BO\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\window form\\BT_S5\\BT_S5.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\GitLab\\BaiNhom\\BTLop_S5\\BT_S5\\BT_S5.csproj",
       "projectName": "BT_S5",
-      "projectPath": "D:\\window form\\BT_S5\\BT_S5.csproj",
-      "packagesPath": "C:\\Users\\BO\\.nuget\\packages\\",
-      "outputPath": "D:\\window form\\BT_S5\\obj\\",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\GitLab\\BaiNhom\\BTLop_S5\\BT_S5\\BT_S5.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\GitLab\\BaiNhom\\BTLop_S5\\BT_S5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\BO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
